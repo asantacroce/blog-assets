@@ -1,3 +1,4 @@
+
 ---
 # Post Title
 # String | *REQUIRED*
@@ -155,4 +156,5 @@ saveAsDraft:
 # Note:
 # Newsletter and Post scheduling is NOT supported as of now.
  
+
 ---
